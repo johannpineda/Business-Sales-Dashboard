@@ -1,9 +1,7 @@
-# File: README.md
-
 # 📊 Business Sales Dashboard
 
 <p align="center">
-  <img width="900" src="screenshots/dashboard-overview.png">
+  <img width="900" src="screenshots/screenshot.png">
 </p>
 
 ## Executive Summary
